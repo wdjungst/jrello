@@ -1,0 +1,6 @@
+username: 'jira user name'
+password: 'jira password'
+project: 'jira project'
+status: 'jira status i.e. QA, To Do, Code Review'
+jira_url: 'https://<domain>.atlassian.net'
+done: 'label of done list or leave blank'

@@ -1,0 +1,16 @@
+public_key:  'trello public key'
+secret: 'trello secret'
+token: 'trello token'
+trello_board: 'trello board id'
+push_list: 'list id to push to'
+done_list: 'list to move cards when done (optional)'
+
+additional_lists:
+- 'add additional lists here or remove this line'
+- 'add additional lists here or remove this line'
+
+members:
+- { 'jiraname': 'trelloname', 'jiraname2': 'trelloname', ... }
+
+labels:
+- { JiraComponent: 'label color', JiraComponent2: 'label color', ... }
